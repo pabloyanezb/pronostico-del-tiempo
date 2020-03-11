@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+}
+.ciudad{
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+}
+.descripcion{
+    text-transform: capitalize;
+}
